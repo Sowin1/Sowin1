@@ -48,3 +48,7 @@
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
+
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sowin1&theme=highcontrast&short_numbers=true&card_width=800" alt="GitHub Streak" /></a>
+</div>
