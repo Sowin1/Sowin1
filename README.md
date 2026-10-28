@@ -5,7 +5,7 @@
 
 - **⛓️ Web3 DeFi and TradFi Enthusiast**
 
-- **🎮 Working in e-sport ecosystem @ <a href="https://greenstar-esport.com">Greenstar Esport</a>**
+- **🎮 Working in e-sport ecosystem @ <a href="https://greenstar-esport.com">Greenstar</a>**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/timéo-meunier-50582129a">
